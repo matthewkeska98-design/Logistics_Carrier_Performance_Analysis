@@ -1,0 +1,234 @@
+Shipment_ID,Carrier_Name,Load_Type,Scheduled_Delivery_Date,Actual_Delivery_Date,Total_Cost,Mileage,Shipping_Location,Del_Region,OTD,CPM
+S291,Budget Freight,TL,7/4/2025,7/6/2025,"$2,577.30",781,"Naperville, IL",Midwest,LATE,$3.30
+S125,Budget Freight,TL,8/25/2025,8/25/2025,"$4,460.80",1394,"Phoenix, AZ",Northeast,ON TIME,$3.20
+S131,Budget Freight,TL,8/22/2025,8/22/2025,"$3,727.50",1491,"Phoenix, AZ",Midwest,ON TIME,$2.50
+S137,Budget Freight,TL,9/14/2025,9/14/2025,"$1,640.10",497,"Phoenix, AZ",Northeast,ON TIME,$3.30
+S143,Budget Freight,TL,9/2/2025,9/2/2025,"$1,584.00",660,"Phoenix, AZ",Midwest,ON TIME,$2.40
+S149,Budget Freight,TL,9/16/2025,9/16/2025,"$4,336.20",1314,"Phoenix, AZ",South,ON TIME,$3.30
+S155,Budget Freight,TL,7/17/2025,7/17/2025,"$2,461.20",879,"Phoenix, AZ",South,ON TIME,$2.80
+S161,Budget Freight,TL,7/24/2025,7/24/2025,"$3,449.60",1078,"Phoenix, AZ",South,ON TIME,$3.20
+S285,Budget Freight,TL,7/15/2025,7/16/2025,"$3,525.20",1259,"Naperville, IL",Northeast,LATE,$2.80
+S297,Budget Freight,TL,7/20/2025,7/21/2025,"$2,102.40",876,"Naperville, IL",Southwest,LATE,$2.40
+S114,Budget Freight,TL,8/1/2025,8/1/2025,"$3,233.80",1406,"Naperville, IL",Northeast,ON TIME,$2.30
+S207,Budget Freight,TL,8/1/2025,8/1/2025,"$2,745.60",832,"Naperville, IL",Midwest,ON TIME,$3.30
+S255,Budget Freight,TL,8/2/2025,8/3/2025,"$3,931.20",1404,"Naperville, IL",Midwest,LATE,$2.80
+S243,Budget Freight,TL,8/4/2025,8/5/2025,"$2,316.00",965,"Naperville, IL",Midwest,LATE,$2.40
+S213,Budget Freight,TL,8/5/2025,8/6/2025,"$2,192.00",1096,"Naperville, IL",South,LATE,$2.00
+S225,Budget Freight,TL,8/13/2025,8/15/2025,"$2,880.00",900,"Naperville, IL",South,LATE,$3.20
+S201,Budget Freight,LTL,8/14/2025,8/14/2025,"$3,700.40",1276,"Naperville, IL",South,ON TIME,$2.90
+S279,Budget Freight,TL,8/15/2025,8/16/2025,"$2,671.20",1113,"Naperville, IL",West,LATE,$2.40
+S189,Budget Freight,TL,8/16/2025,8/16/2025,"$3,796.10",1309,"Naperville, IL",South,ON TIME,$2.90
+S231,Budget Freight,LTL,8/20/2025,8/22/2025,"$3,135.00",1254,"Naperville, IL",Midwest,LATE,$2.50
+S261,Budget Freight,TL,8/22/2025,8/23/2025,"$3,961.60",1238,"Naperville, IL",South,LATE,$3.20
+S273,Budget Freight,LTL,8/24/2025,8/25/2025,"$1,458.20",634,"Naperville, IL",West,LATE,$2.30
+S219,Budget Freight,TL,8/25/2025,8/26/2025,"$3,328.00",1280,"Naperville, IL",Midwest,LATE,$2.60
+S249,Budget Freight,TL,8/26/2025,8/27/2025,"$4,474.80",1356,"Naperville, IL",South,LATE,$3.30
+S237,Budget Freight,TL,8/27/2025,8/28/2025,"$4,375.80",1326,"Naperville, IL",South,LATE,$3.30
+S107,Budget Freight,TL,8/14/2025,8/14/2025,"$1,141.80",346,"Charleston, SC",Midwest,ON TIME,$3.30
+S195,Budget Freight,TL,8/30/2025,8/30/2025,"$2,667.00",889,"Naperville, IL",South,ON TIME,$3.00
+S267,Budget Freight,TL,8/30/2025,9/1/2025,"$3,471.30",1197,"Naperville, IL",Midwest,LATE,$2.90
+S102,Budget Freight,TL,9/1/2025,9/1/2025,"$2,061.00",687,"Naperville, IL",West,ON TIME,$3.00
+S120,Budget Freight,TL,9/8/2025,9/8/2025,"$2,997.00",999,"Naperville, IL",Midwest,ON TIME,$3.00
+S172,Budget Freight,TL,9/13/2025,9/13/2025,"$3,917.20",1399,"Naperville, IL",West,ON TIME,$2.80
+S184,Budget Freight,TL,9/17/2025,9/17/2025,"$5,100.00",1500,"Naperville, IL",South,ON TIME,$3.40
+S178,Budget Freight,TL,9/19/2025,9/19/2025,"$2,300.00",1150,"Naperville, IL",South,ON TIME,$2.00
+S298,Budget Freight,TL,9/27/2025,9/28/2025,"$3,891.80",1342,"Naperville, IL",South,LATE,$2.90
+S166,Budget Freight,TL,9/26/2025,9/26/2025,"$3,013.20",972,"Charleston, SC",South,ON TIME,$3.10
+S342,Budget Freight,TL,9/27/2025,9/28/2025,"$3,891.80",1342,"Naperville, IL",South,LATE,$2.90
+S299,Budget Freight,TL,9/28/2025,9/29/2025,"$3,891.80",1342,"Naperville, IL",Midwest,LATE,$2.90
+S345,Budget Freight,TL,9/28/2025,9/29/2025,"$3,891.80",1342,"Naperville, IL",Midwest,LATE,$2.90
+S147,Diamond Axle Transport,TL,7/14/2025,7/14/2025,"$3,139.50",1365,"Naperville, IL",Midwest,ON TIME,$2.30
+S106,Diamond Axle Transport,TL,7/20/2025,7/21/2025,"$3,689.00",1190,"Naperville, IL",South,LATE,$3.10
+S141,Diamond Axle Transport,TL,7/31/2025,7/31/2025,"$1,752.00",876,"Naperville, IL",South,ON TIME,$2.00
+S103,Diamond Axle Transport,TL,7/3/2025,7/3/2025,"$3,209.80",1459,"Phoenix, AZ",Midwest,ON TIME,$2.20
+S117,Diamond Axle Transport,TL,8/21/2025,8/21/2025,"$3,830.90",1321,"Phoenix, AZ",South,ON TIME,$2.90
+S224,Diamond Axle Transport,TL,7/16/2025,7/16/2025,"$3,824.70",1159,"Charleston, SC",South,ON TIME,$3.30
+S158,Diamond Axle Transport,TL,7/7/2025,7/8/2025,"$1,617.60",674,"Phoenix, AZ",West,LATE,$2.40
+S164,Diamond Axle Transport,TL,7/21/2025,7/21/2025,"$2,921.00",1270,"Phoenix, AZ",West,ON TIME,$2.30
+S170,Diamond Axle Transport,TL,7/12/2025,7/12/2025,"$2,670.00",890,"Phoenix, AZ",South,ON TIME,$3.00
+S176,Diamond Axle Transport,TL,7/23/2025,7/23/2025,"$2,662.20",986,"Phoenix, AZ",West,ON TIME,$2.70
+S182,Diamond Axle Transport,TL,7/15/2025,7/15/2025,"$2,295.80",883,"Phoenix, AZ",West,ON TIME,$2.60
+S188,Diamond Axle Transport,LTL,7/4/2025,7/4/2025,"$2,902.40",907,"Phoenix, AZ",West,ON TIME,$3.20
+S194,Diamond Axle Transport,TL,7/8/2025,7/8/2025,"$1,791.80",578,"Phoenix, AZ",Northeast,ON TIME,$3.10
+S200,Diamond Axle Transport,LTL,7/25/2025,7/25/2025,"$1,960.00",784,"Phoenix, AZ",Midwest,ON TIME,$2.50
+S206,Diamond Axle Transport,TL,7/30/2025,7/30/2025,"$3,307.70",1067,"Phoenix, AZ",South,ON TIME,$3.10
+S212,Diamond Axle Transport,TL,7/26/2025,7/26/2025,"$2,500.20",1389,"Phoenix, AZ",West,ON TIME,$1.80
+S218,Diamond Axle Transport,TL,7/11/2025,7/11/2025,"$3,592.50",1437,"Phoenix, AZ",South,ON TIME,$2.50
+S135,Diamond Axle Transport,TL,7/26/2025,7/26/2025,"$3,376.80",1206,"Charleston, SC",Midwest,ON TIME,$2.80
+S230,Diamond Axle Transport,TL,7/3/2025,7/3/2025,"$2,873.70",927,"Phoenix, AZ",West,ON TIME,$3.10
+S236,Diamond Axle Transport,TL,7/10/2025,7/10/2025,"$3,168.00",1440,"Phoenix, AZ",Midwest,ON TIME,$2.20
+S242,Diamond Axle Transport,TL,7/27/2025,7/28/2025,"$3,874.50",1435,"Phoenix, AZ",West,LATE,$2.70
+S248,Diamond Axle Transport,TL,7/17/2025,7/17/2025,"$2,150.40",672,"Phoenix, AZ",West,ON TIME,$3.20
+S254,Diamond Axle Transport,TL,7/22/2025,7/22/2025,"$1,478.20",778,"Phoenix, AZ",South,ON TIME,$1.90
+S260,Diamond Axle Transport,TL,7/7/2025,7/7/2025,"$2,756.70",1021,"Phoenix, AZ",West,ON TIME,$2.70
+S266,Diamond Axle Transport,TL,7/9/2025,7/9/2025,"$3,056.60",986,"Phoenix, AZ",South,ON TIME,$3.10
+S272,Diamond Axle Transport,LTL,7/2/2025,7/2/2025,"$2,744.00",980,"Phoenix, AZ",South,ON TIME,$2.80
+S278,Diamond Axle Transport,TL,7/1/2025,7/1/2025,"$2,554.00",1277,"Phoenix, AZ",West,ON TIME,$2.00
+S284,Diamond Axle Transport,TL,9/4/2025,9/4/2025,"$3,247.00",955,"Phoenix, AZ",Southwest,ON TIME,$3.40
+S290,Diamond Axle Transport,LTL,9/7/2025,9/7/2025,"$3,207.60",1458,"Phoenix, AZ",South,ON TIME,$2.20
+S296,Diamond Axle Transport,TL,9/14/2025,9/14/2025,"$2,511.00",930,"Phoenix, AZ",West,ON TIME,$2.70
+S298,Diamond Axle Transport,TL,7/15/2025,7/15/2025,"$2,295.80",883,"Phoenix, AZ",West,ON TIME,$2.60
+S299,Diamond Axle Transport,LTL,7/4/2025,7/4/2025,"$2,902.40",907,"Phoenix, AZ",West,ON TIME,$3.20
+S300,Diamond Axle Transport,TL,7/8/2025,7/8/2025,"$1,791.80",578,"Phoenix, AZ",Northeast,ON TIME,$3.10
+S301,Diamond Axle Transport,LTL,7/25/2025,7/25/2025,"$1,960.00",784,"Phoenix, AZ",Midwest,ON TIME,$2.50
+S302,Diamond Axle Transport,TL,7/30/2025,7/30/2025,"$3,307.70",1067,"Phoenix, AZ",South,ON TIME,$3.10
+S303,Diamond Axle Transport,TL,7/26/2025,7/26/2025,"$2,500.20",1389,"Phoenix, AZ",West,ON TIME,$1.80
+S304,Diamond Axle Transport,TL,7/11/2025,7/11/2025,"$3,592.50",1437,"Phoenix, AZ",South,ON TIME,$2.50
+S305,Diamond Axle Transport,TL,7/3/2025,7/3/2025,"$2,873.70",927,"Phoenix, AZ",West,ON TIME,$3.10
+S306,Diamond Axle Transport,TL,7/10/2025,7/10/2025,"$3,168.00",1440,"Phoenix, AZ",Midwest,ON TIME,$2.20
+S307,Diamond Axle Transport,TL,7/27/2025,7/28/2025,"$3,874.50",1435,"Phoenix, AZ",West,LATE,$2.70
+S308,Diamond Axle Transport,TL,7/17/2025,7/17/2025,"$2,150.40",672,"Phoenix, AZ",West,ON TIME,$3.20
+S309,Diamond Axle Transport,TL,7/22/2025,7/22/2025,"$1,478.20",778,"Phoenix, AZ",South,ON TIME,$1.90
+S310,Diamond Axle Transport,TL,7/7/2025,7/7/2025,"$2,756.70",1021,"Phoenix, AZ",West,ON TIME,$2.70
+S311,Diamond Axle Transport,TL,7/9/2025,7/9/2025,"$3,056.60",986,"Phoenix, AZ",South,ON TIME,$3.10
+S312,Diamond Axle Transport,LTL,7/2/2025,7/2/2025,"$2,744.00",980,"Phoenix, AZ",South,ON TIME,$2.80
+S313,Diamond Axle Transport,TL,7/1/2025,7/1/2025,"$2,554.00",1277,"Phoenix, AZ",West,ON TIME,$2.00
+S314,Diamond Axle Transport,TL,9/4/2025,9/4/2025,"$3,247.00",955,"Phoenix, AZ",Southwest,ON TIME,$3.40
+S315,Diamond Axle Transport,LTL,9/7/2025,9/7/2025,"$3,207.60",1458,"Phoenix, AZ",South,ON TIME,$2.20
+S316,Diamond Axle Transport,TL,9/14/2025,9/14/2025,"$2,511.00",930,"Phoenix, AZ",West,ON TIME,$2.70
+S152,Diamond Axle Transport,TL,8/4/2025,8/4/2025,"$3,756.00",1252,"Charleston, SC",South,ON TIME,$3.00
+S129,Diamond Axle Transport,TL,9/15/2025,9/15/2025,"$1,408.80",587,"Naperville, IL",South,ON TIME,$2.40
+S123,Diamond Axle Transport,TL,9/27/2025,9/27/2025,"$1,637.60",712,"Charleston, SC",Midwest,ON TIME,$2.30
+S111,Diamond Axle Transport,TL,9/30/2025,9/30/2025,"$4,729.60",1478,"Naperville, IL",South,ON TIME,$3.20
+S348,Diamond Axle Transport,TL,9/30/2025,9/30/2025,"$4,729.60",1478,"Naperville, IL",South,ON TIME,$3.20
+S113,Fast Movers,LTL,7/6/2025,7/6/2025,$834.00,417,"Charleston, SC",South,ON TIME,$2.00
+S153,Fast Movers,TL,7/28/2025,7/28/2025,"$1,247.40",567,"Naperville, IL",West,ON TIME,$2.20
+S171,Fast Movers,TL,8/3/2025,8/3/2025,"$1,297.80",618,"Naperville, IL",Midwest,ON TIME,$2.10
+S165,Fast Movers,LTL,8/6/2025,8/6/2025,"$1,326.00",390,"Naperville, IL",Northeast,ON TIME,$3.40
+S183,Fast Movers,TL,8/15/2025,8/15/2025,"$3,861.00",1287,"Naperville, IL",Midwest,ON TIME,$3.00
+S139,Fast Movers,TL,7/16/2025,7/16/2025,"$3,535.10",1219,"Charleston, SC",Midwest,ON TIME,$2.90
+S133,Fast Movers,TL,7/19/2025,7/20/2025,"$2,919.00",973,"Charleston, SC",South,LATE,$3.00
+S159,Fast Movers,TL,8/24/2025,8/25/2025,"$3,603.60",1386,"Naperville, IL",West,LATE,$2.60
+S108,Fast Movers,LTL,7/29/2025,7/29/2025,"$3,352.80",1397,"Phoenix, AZ",West,ON TIME,$2.40
+S119,Fast Movers,TL,7/13/2025,7/13/2025,"$3,712.80",1428,"Phoenix, AZ",West,ON TIME,$2.60
+S128,Fast Movers,TL,8/17/2025,8/17/2025,"$2,162.00",1081,"Phoenix, AZ",West,ON TIME,$2.00
+S101,Fast Movers,TL,8/7/2025,8/7/2025,"$3,906.30",1347,"Charleston, SC",South,ON TIME,$2.90
+S177,Fast Movers,TL,8/28/2025,8/28/2025,$828.40,436,"Phoenix, AZ",Northeast,ON TIME,$1.90
+S197,Fast Movers,TL,7/6/2025,7/10/2025,"$2,490.90",1083,"Phoenix, AZ",South,LATE,$2.30
+S203,Fast Movers,LTL,7/12/2025,7/12/2025,"$2,974.40",1352,"Phoenix, AZ",Midwest,ON TIME,$2.20
+S145,Fast Movers,TL,8/23/2025,8/24/2025,"$4,410.00",1470,"Charleston, SC",South,LATE,$3.00
+S247,Fast Movers,TL,9/3/2025,9/3/2025,"$2,927.90",1273,"Phoenix, AZ",Midwest,ON TIME,$2.30
+S190,Fast Movers,TL,9/5/2025,9/6/2025,$876.60,487,"Charleston, SC",West,LATE,$1.80
+S277,Fast Movers,TL,9/30/2025,9/30/2025,$568.10,299,"Phoenix, AZ",Southwest,ON TIME,$1.90
+S283,Fast Movers,TL,9/10/2025,9/12/2025,"$4,335.00",1445,"Phoenix, AZ",Midwest,LATE,$3.00
+S289,Fast Movers,TL,8/30/2025,8/30/2025,"$3,590.20",1238,"Phoenix, AZ",South,ON TIME,$2.90
+S295,Fast Movers,TL,8/24/2025,8/26/2025,"$1,882.00",941,"Phoenix, AZ",Midwest,LATE,$2.00
+S265,Fast Movers,TL,9/6/2025,9/7/2025,"$4,481.20",1318,"Charleston, SC",South,LATE,$3.40
+S253,Fast Movers,LTL,9/18/2025,9/19/2025,$994.40,452,"Charleston, SC",South,LATE,$2.20
+S241,Fast Movers,TL,9/19/2025,9/19/2025,$774.00,387,"Charleston, SC",South,ON TIME,$2.00
+S217,Fast Movers,TL,9/21/2025,9/21/2025,$899.00,310,"Charleston, SC",Northeast,ON TIME,$2.90
+S211,Fast Movers,TL,9/23/2025,9/25/2025,"$3,132.80",979,"Charleston, SC",Midwest,LATE,$3.20
+S235,Fast Movers,TL,9/25/2025,9/25/2025,"$3,362.80",1201,"Charleston, SC",South,ON TIME,$2.80
+S229,Fast Movers,TL,9/26/2025,9/26/2025,"$1,608.00",670,"Charleston, SC",South,ON TIME,$2.40
+S271,Fast Movers,LTL,9/27/2025,9/27/2025,"$3,021.90",1439,"Charleston, SC",Midwest,ON TIME,$2.10
+S223,Fast Movers,TL,9/28/2025,9/28/2025,$634.80,276,"Charleston, SC",Midwest,ON TIME,$2.30
+S343,Fast Movers,TL,9/28/2025,9/28/2025,$634.80,276,"Charleston, SC",Midwest,ON TIME,$2.30
+S259,Fast Movers,TL,9/29/2025,9/29/2025,$707.20,272,"Charleston, SC",Midwest,ON TIME,$2.60
+S346,Fast Movers,TL,9/29/2025,9/29/2025,$707.20,272,"Charleston, SC",Midwest,ON TIME,$2.60
+S349,Fast Movers,TL,9/30/2025,9/30/2025,$568.10,299,"Charleston, SC",Southwest,ON TIME,$1.90
+S122,Golden Tire,TL,7/10/2025,7/13/2025,"$3,214.40",1148,"Charleston, SC",West,LATE,$2.80
+S180,Golden Tire,TL,8/2/2025,8/4/2025,$880.40,284,"Naperville, IL",West,LATE,$3.10
+S204,Golden Tire,LTL,8/7/2025,8/7/2025,$874.00,460,"Naperville, IL",West,ON TIME,$1.90
+S186,Golden Tire,TL,8/8/2025,8/8/2025,"$3,163.60",1438,"Naperville, IL",South,ON TIME,$2.20
+S198,Golden Tire,TL,8/19/2025,8/23/2025,"$3,033.60",948,"Naperville, IL",West,LATE,$3.20
+S127,Golden Tire,LTL,7/30/2025,7/30/2025,"$2,141.30",1127,"Charleston, SC",Midwest,ON TIME,$1.90
+S192,Golden Tire,TL,8/27/2025,8/27/2025,"$3,955.50",1465,"Naperville, IL",South,ON TIME,$2.70
+S110,Golden Tire,TL,8/18/2025,8/19/2025,"$2,516.40",932,"Charleston, SC",South,LATE,$2.70
+S175,Golden Tire,TL,9/4/2025,9/5/2025,"$1,849.60",578,"Charleston, SC",Midwest,LATE,$3.20
+S163,Golden Tire,TL,9/7/2025,9/7/2025,"$2,864.00",1432,"Charleston, SC",Midwest,ON TIME,$2.00
+S116,Golden Tire,TL,7/25/2025,7/25/2025,$895.90,289,"Phoenix, AZ",Midwest,ON TIME,$3.10
+S157,Golden Tire,TL,9/9/2025,9/9/2025,"$3,940.20",1194,"Charleston, SC",South,ON TIME,$3.30
+S134,Golden Tire,TL,9/25/2025,9/27/2025,"$2,349.40",691,"Phoenix, AZ",South,LATE,$3.40
+S140,Golden Tire,TL,9/11/2025,9/11/2025,"$1,674.00",930,"Phoenix, AZ",West,ON TIME,$1.80
+S146,Golden Tire,TL,9/21/2025,9/21/2025,"$2,477.80",953,"Phoenix, AZ",South,ON TIME,$2.60
+S209,Golden Tire,TL,7/28/2025,7/28/2025,"$1,749.80",673,"Phoenix, AZ",South,ON TIME,$2.60
+S215,Golden Tire,TL,7/23/2025,7/23/2025,"$2,403.80",707,"Phoenix, AZ",Midwest,ON TIME,$3.40
+S221,Golden Tire,TL,7/18/2025,7/18/2025,"$1,801.80",858,"Phoenix, AZ",South,ON TIME,$2.10
+S227,Golden Tire,TL,7/5/2025,7/5/2025,"$1,559.90",821,"Phoenix, AZ",Midwest,ON TIME,$1.90
+S233,Golden Tire,LTL,7/21/2025,7/21/2025,"$2,145.00",715,"Phoenix, AZ",West,ON TIME,$3.00
+S239,Golden Tire,TL,7/19/2025,7/19/2025,"$1,470.30",507,"Phoenix, AZ",West,ON TIME,$2.90
+S245,Golden Tire,TL,7/14/2025,7/14/2025,$822.00,274,"Phoenix, AZ",Northeast,ON TIME,$3.00
+S251,Golden Tire,TL,7/13/2025,7/13/2025,"$3,488.70",1203,"Phoenix, AZ",Midwest,ON TIME,$2.90
+S257,Golden Tire,TL,7/29/2025,7/29/2025,"$3,606.90",1093,"Phoenix, AZ",Northeast,ON TIME,$3.30
+S263,Golden Tire,TL,7/15/2025,7/15/2025,"$1,562.00",781,"Phoenix, AZ",Midwest,ON TIME,$2.00
+S269,Golden Tire,LTL,7/4/2025,7/4/2025,"$3,070.60",1181,"Phoenix, AZ",South,ON TIME,$2.60
+S275,Golden Tire,TL,7/20/2025,7/20/2025,"$4,316.80",1349,"Phoenix, AZ",South,ON TIME,$3.20
+S281,Golden Tire,TL,7/24/2025,7/24/2025,"$3,672.50",1469,"Phoenix, AZ",South,ON TIME,$2.50
+S287,Golden Tire,TL,9/6/2025,9/6/2025,"$3,672.90",1113,"Phoenix, AZ",Midwest,ON TIME,$3.30
+S293,Golden Tire,TL,9/27/2025,9/27/2025,"$4,274.60",1474,"Phoenix, AZ",South,ON TIME,$2.90
+S340,Golden Tire,TL,9/25/2025,9/27/2025,"$2,349.40",691,"Phoenix, AZ",South,LATE,$3.40
+S341,Golden Tire,TL,9/27/2025,9/27/2025,"$4,274.60",1474,"Phoenix, AZ",South,ON TIME,$2.90
+S105,Golden Tire,TL,9/10/2025,9/10/2025,"$2,447.20",874,"Naperville, IL",West,ON TIME,$2.80
+S169,Golden Tire,TL,9/23/2025,9/23/2025,"$1,307.80",503,"Charleston, SC",South,ON TIME,$2.60
+S151,Golden Tire,TL,9/29/2025,9/29/2025,"$4,074.50",1405,"Charleston, SC",Midwest,ON TIME,$2.90
+S347,Golden Tire,TL,9/29/2025,9/29/2025,"$4,074.50",1405,"Charleston, SC",Midwest,ON TIME,$2.90
+S144,Reliable Haul,TL,7/5/2025,7/5/2025,$796.70,257,"Naperville, IL",South,ON TIME,$3.10
+S150,Reliable Haul,TL,7/8/2025,7/8/2025,$685.00,274,"Naperville, IL",West,ON TIME,$2.50
+S156,Reliable Haul,TL,8/10/2025,8/11/2025,$877.30,283,"Naperville, IL",Midwest,LATE,$3.10
+S292,Reliable Haul,TL,8/3/2025,8/3/2025,"$2,662.40",832,"Charleston, SC",West,ON TIME,$3.20
+S138,Reliable Haul,TL,8/26/2025,8/27/2025,"$4,745.60",1483,"Naperville, IL",South,LATE,$3.20
+S162,Reliable Haul,TL,8/13/2025,8/13/2025,$487.80,271,"Charleston, SC",West,ON TIME,$1.80
+S168,Reliable Haul,TL,8/20/2025,8/20/2025,"$3,387.50",1355,"Charleston, SC",West,ON TIME,$2.50
+S286,Reliable Haul,TL,8/28/2025,8/29/2025,"$2,809.40",1277,"Charleston, SC",South,LATE,$2.20
+S262,Reliable Haul,TL,9/4/2025,9/5/2025,"$2,624.40",1458,"Charleston, SC",West,LATE,$1.80
+S280,Reliable Haul,TL,9/5/2025,9/5/2025,$868.00,280,"Charleston, SC",Midwest,ON TIME,$3.10
+S268,Reliable Haul,LTL,9/7/2025,9/10/2025,"$1,147.50",459,"Charleston, SC",West,LATE,$2.50
+S256,Reliable Haul,TL,9/8/2025,9/8/2025,"$1,140.80",368,"Charleston, SC",West,ON TIME,$3.10
+S196,Reliable Haul,TL,9/10/2025,9/10/2025,"$2,969.20",1142,"Charleston, SC",Midwest,ON TIME,$2.60
+S244,Reliable Haul,TL,9/11/2025,9/11/2025,"$4,126.10",1331,"Charleston, SC",West,ON TIME,$3.10
+S238,Reliable Haul,TL,9/12/2025,9/12/2025,"$3,689.60",1153,"Charleston, SC",West,ON TIME,$3.20
+S274,Reliable Haul,TL,9/14/2025,9/15/2025,"$4,567.20",1384,"Charleston, SC",Northeast,LATE,$3.30
+S202,Reliable Haul,LTL,9/15/2025,9/15/2025,"$2,901.00",967,"Charleston, SC",West,ON TIME,$3.00
+S126,Reliable Haul,TL,9/3/2025,9/4/2025,"$1,285.20",476,"Naperville, IL",South,LATE,$2.70
+S132,Reliable Haul,TL,9/6/2025,9/6/2025,"$2,210.00",850,"Naperville, IL",West,ON TIME,$2.60
+S208,Reliable Haul,TL,9/16/2025,9/16/2025,"$3,537.60",1474,"Charleston, SC",West,ON TIME,$2.40
+S100,Reliable Haul,TL,9/24/2025,9/25/2025,"$2,382.50",953,"Phoenix, AZ",South,LATE,$2.50
+S109,Reliable Haul,TL,9/5/2025,9/6/2025,"$1,445.60",556,"Phoenix, AZ",South,LATE,$2.60
+S115,Reliable Haul,TL,9/12/2025,9/12/2025,"$4,246.60",1249,"Phoenix, AZ",South,ON TIME,$3.40
+S121,Reliable Haul,TL,8/11/2025,8/11/2025,"$2,853.90",1359,"Phoenix, AZ",South,ON TIME,$2.10
+S250,Reliable Haul,TL,9/20/2025,9/20/2025,$852.50,341,"Naperville, IL",South,ON TIME,$2.50
+S232,Reliable Haul,LTL,9/17/2025,9/17/2025,"$2,878.20",1107,"Charleston, SC",South,ON TIME,$2.60
+S173,Reliable Haul,TL,7/27/2025,7/27/2025,"$3,268.30",1421,"Phoenix, AZ",South,ON TIME,$2.30
+S179,Reliable Haul,TL,7/2/2025,7/2/2025,"$3,511.20",1463,"Phoenix, AZ",Midwest,ON TIME,$2.40
+S185,Reliable Haul,TL,7/11/2025,7/11/2025,"$3,382.40",1208,"Phoenix, AZ",South,ON TIME,$2.80
+S191,Reliable Haul,TL,7/9/2025,7/9/2025,$520.00,260,"Phoenix, AZ",Midwest,ON TIME,$2.00
+S214,Reliable Haul,TL,9/13/2025,9/13/2025,"$2,893.40",1258,"Phoenix, AZ",South,ON TIME,$2.30
+S220,Reliable Haul,TL,9/9/2025,9/9/2025,"$1,479.00",493,"Phoenix, AZ",West,ON TIME,$3.00
+S226,Reliable Haul,TL,9/1/2025,9/1/2025,"$3,831.30",1419,"Phoenix, AZ",South,ON TIME,$2.70
+S317,Reliable Haul,TL,9/24/2025,9/25/2025,"$2,382.50",953,"Phoenix, AZ",South,LATE,$2.50
+S318,Reliable Haul,TL,9/5/2025,9/6/2025,"$1,445.60",556,"Phoenix, AZ",South,LATE,$2.60
+S319,Reliable Haul,TL,9/12/2025,9/12/2025,"$4,246.60",1249,"Phoenix, AZ",South,ON TIME,$3.40
+S320,Reliable Haul,TL,8/11/2025,8/11/2025,"$2,853.90",1359,"Phoenix, AZ",South,ON TIME,$2.10
+S321,Reliable Haul,TL,7/27/2025,7/27/2025,"$3,268.30",1421,"Phoenix, AZ",South,ON TIME,$2.30
+S322,Reliable Haul,TL,7/2/2025,7/2/2025,"$3,511.20",1463,"Phoenix, AZ",Midwest,ON TIME,$2.40
+S323,Reliable Haul,TL,7/11/2025,7/11/2025,"$3,382.40",1208,"Phoenix, AZ",South,ON TIME,$2.80
+S324,Reliable Haul,TL,7/9/2025,7/9/2025,$520.00,260,"Phoenix, AZ",Midwest,ON TIME,$2.00
+S332,Reliable Haul,TL,9/24/2025,9/25/2025,"$2,382.50",953,"Phoenix, AZ",South,LATE,$2.50
+S333,Reliable Haul,TL,9/5/2025,9/6/2025,"$1,445.60",556,"Phoenix, AZ",South,LATE,$2.60
+S334,Reliable Haul,TL,9/12/2025,9/12/2025,"$4,246.60",1249,"Phoenix, AZ",South,ON TIME,$3.40
+S335,Reliable Haul,TL,8/11/2025,8/11/2025,"$2,853.90",1359,"Phoenix, AZ",South,ON TIME,$2.10
+S336,Reliable Haul,TL,7/27/2025,7/27/2025,"$3,268.30",1421,"Phoenix, AZ",South,ON TIME,$2.30
+S337,Reliable Haul,TL,7/2/2025,7/2/2025,"$3,511.20",1463,"Phoenix, AZ",Midwest,ON TIME,$2.40
+S338,Reliable Haul,TL,7/11/2025,7/11/2025,"$3,382.40",1208,"Phoenix, AZ",South,ON TIME,$2.80
+S339,Reliable Haul,TL,7/9/2025,7/9/2025,$520.00,260,"Phoenix, AZ",Midwest,ON TIME,$2.00
+S222,Road King,TL,8/8/2025,8/8/2025,"$3,458.00",1235,"Naperville, IL",West,ON TIME,$2.80
+S216,Road King,TL,8/10/2025,8/10/2025,"$3,611.50",1165,"Naperville, IL",West,ON TIME,$3.10
+S210,Road King,TL,8/11/2025,8/11/2025,"$2,540.70",941,"Naperville, IL",South,ON TIME,$2.70
+S174,Road King,TL,8/12/2025,8/12/2025,"$3,580.50",1085,"Naperville, IL",South,ON TIME,$3.30
+S228,Road King,TL,8/23/2025,8/23/2025,"$2,902.00",1451,"Naperville, IL",West,ON TIME,$2.00
+S142,Road King,TL,8/9/2025,8/9/2025,"$3,623.40",1342,"Charleston, SC",West,ON TIME,$2.70
+S148,Road King,TL,8/19/2025,8/19/2025,"$1,235.20",386,"Charleston, SC",West,ON TIME,$3.20
+S205,Road King,LTL,9/2/2025,9/2/2025,"$3,953.60",1412,"Charleston, SC",Northeast,ON TIME,$2.80
+S118,Road King,TL,9/18/2025,9/19/2025,"$1,832.50",733,"Charleston, SC",West,LATE,$2.50
+S154,Road King,TL,9/20/2025,9/21/2025,"$2,109.00",1110,"Charleston, SC",Northeast,LATE,$1.90
+S160,Road King,TL,9/22/2025,9/23/2025,"$2,343.60",868,"Charleston, SC",Midwest,LATE,$2.70
+S199,Road King,TL,9/22/2025,9/22/2025,"$4,794.90",1453,"Charleston, SC",West,ON TIME,$3.30
+S193,Road King,TL,9/24/2025,9/24/2025,"$3,386.40",1411,"Charleston, SC",West,ON TIME,$2.40
+S104,Road King,TL,8/29/2025,8/29/2025,"$2,439.60",1284,"Phoenix, AZ",South,ON TIME,$1.90
+S124,Road King,TL,7/1/2025,7/2/2025,"$4,758.60",1442,"Phoenix, AZ",West,LATE,$3.30
+S130,Road King,TL,7/9/2025,7/9/2025,"$4,389.60",1416,"Phoenix, AZ",South,ON TIME,$3.10
+S136,Road King,TL,8/5/2025,8/5/2025,"$2,274.80",1034,"Phoenix, AZ",West,ON TIME,$2.20
+S181,Road King,TL,9/28/2025,9/28/2025,"$2,335.00",934,"Charleston, SC",South,ON TIME,$2.50
+S187,Road King,TL,9/30/2025,9/30/2025,"$3,913.80",1186,"Charleston, SC",Midwest,ON TIME,$3.30
+S344,Road King,TL,9/28/2025,9/28/2025,"$2,335.00",934,"Phoenix, AZ",South,ON TIME,$2.50
+S350,Road King,TL,9/30/2025,9/30/2025,"$3,913.80",1186,"Charleston, SC",Midwest,ON TIME,$3.30
