@@ -7,7 +7,7 @@ Identify bottlenecks in the carrier network to increase On-Time Delivery (OTD) r
 ## 💻 Technical Files & Report
 **Raw Data:** [https://docs.google.com/spreadsheets/d/e/2PACX-1vQ77h8lf8KGTYF2uW8Mgwmj9efteASv8WovhE_1wnY1MnDnsjZYflqJ0eHWeJGJ2H7WzaLzS66SQC8F/pub?output=csv]
 
-## 📝 Methodology Summary
+## 📝 Analysis Summary
 This analysis reviews Q3 carrier performance across key brokered lanes to quantify service reliability and cost efficiency. The primary objective was to identify underperforming and overpriced carriers to enable a data-driven strategy for identifying areas of potential growth and service improvement.
 
 The results of the analysis reveal a significant performance failure with Budget Freight. This carrier recorded an average On-Time Delivery (OTD) rate of only 52.78% across all shipments, falling significantly below the network average of 75.54%. Additionally, the analysis showed Budget Freight charging the highest average Cost per Mile, demonstrating a clear misalignment between price and service level. As we work to meet our customers' standards of 85% OTD performance, this is an area that needs immediate attention.
